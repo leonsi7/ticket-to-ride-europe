@@ -1,4 +1,4 @@
-Source,Target,Weight,Colored,Tunnel,Engine
+Source,Target,Carriages,Colored,Tunnel,Engine
 Lisboa,Cadiz,2,true,false,0
 Madrid,Lisboa,3,true,false,0
 Madrid,Cadiz,3,true,false,0
