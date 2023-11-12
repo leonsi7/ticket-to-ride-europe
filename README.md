@@ -7,6 +7,6 @@ To import the data, download the files:
 - ```destinations.csv```
 - ```routes.csv```
 
-You can also read my analysis. You need to know the game and its rules tu understand my analysis.
+You can also read my analysis in the file [analysis.ipynb](https://github.com/leonsi7/les-aventuries-du-rail/blob/main/analysis.ipynb) You need to know the game and its rules tu understand my analysis.
 
 Enjoy your reading ;)
