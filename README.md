@@ -1,4 +1,4 @@
-# Analysing Ticket to ride: data
+# Analysing Ticket to ride: Europe
 
 This repository contains the data of the map and an analysis of the routes.
 
